@@ -1,0 +1,11 @@
+{
+  "name": "together-ai-api",
+  "displayName": "Together AI API",
+  "version": "0.1.0",
+  "description": "Integrate and consume the APIMatic-generated Together APIs SDK — bundled skills for C#/.NET, Python, TypeScript.",
+  "skills": [
+    "./skills/dotnet",
+    "./skills/python",
+    "./skills/typescript"
+  ]
+}
